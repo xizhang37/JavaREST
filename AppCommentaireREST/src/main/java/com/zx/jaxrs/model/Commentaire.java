@@ -43,6 +43,7 @@ public class Commentaire {
 
     @Override
     public String toString() {
+		system.out.printlin("aaaaaaaaaaaaaaaaaaaaaa");
         return "Commentaire{" +
                 "auteur='" + auteur + '\'' +
                 ", dateCreation=" + dateCreation +
